@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tuhinpal/WhatsBot.git"
+    "url": "git+https://github.com/Emdad05/WhatsBot.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Tuhin Kanti Pal",
+  "author": "Emdad Hussain ",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/tuhinpal/WhatsBot/issues"
+    "url": "https://github.com/Emdad05l/WhatsBot/issues"
   },
-  "homepage": "https://github.com/tuhinpal/WhatsBot#readme",
+  "homepage": "https://github.com/Emdad05/WhatsBot#readme",
   "dependencies": {
     "@iamtraction/google-translate": "^1.1.2",
     "adm-zip": "^0.5.9",
